@@ -1,2 +1,2 @@
-# Plusradio24
-Emisora de los éxitos
+# Global-System-Radio
+Cubriendo todo el planeta
