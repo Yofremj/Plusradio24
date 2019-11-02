@@ -1,5 +1,5 @@
 var music=new Audio();
-music.src="http://212.83.151.18:41643/stream.mp3";
+music.src="http://ur58.lorini.net:2070/stream.mp3";
 music.loop=true;
 music.pause();   
    
