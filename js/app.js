@@ -1,5 +1,5 @@
 var music=new Audio();
-music.src="http://laglobalradio.ddns.net:8000/live.mp3";
+music.src="http://plusradio24.ddns.net:8000/Plusradio24.mp3";
 music.loop=true;
 music.pause();   
    
