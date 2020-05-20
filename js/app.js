@@ -7,10 +7,10 @@ function myFunction(x) {
             
 x.classList.toggle("fa-stop-circle");
             
-if(music.play){
-    music.pause();
+if(music.pause){
+    music.play();
 }else{
-    music.play();    
+    music.pause();    
 }
     
 }
