@@ -1,7 +1,7 @@
 var music=new Audio();
 music.src="http://plusradio24.ddns.net:8000/plusradio24";
 music.loop=true;
-music.play();   
+music.pause();   
    
 function myFunction(x) {
             
