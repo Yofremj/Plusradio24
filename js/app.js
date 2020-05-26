@@ -1,6 +1,6 @@
 var music = new Audio('http://plusradio24.ddns.net:8000/plusradio24');
-music.pause();   
-   
+music.play();   
+/*   
 function myFunction(x){
     x.classList.toggle("fa-stop-circle");
 
@@ -10,3 +10,4 @@ function myFunction(x){
         music.pause();
     }
 }
+*/
