@@ -1,4 +1,4 @@
-var music=new Audio("http://plusradio24.ddns.net:8000/plusradio24");
+var music = document.getElementById("sonido");
 music.pause();   
    
 function myFunction(x){
