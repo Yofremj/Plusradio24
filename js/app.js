@@ -1,4 +1,4 @@
-var music = new Audio("http://plusradio24.ddns.net:8000/plusradio24");
+var music = new Audio("http://stream.zeno.fm/n50fkrw6sm0uv");
 music.pause();   
    
 function myFunction(x){
